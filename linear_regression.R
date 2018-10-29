@@ -1,6 +1,5 @@
 # Load packages
 library(tidyverse)
-library(glmnet)
 
 # Read in data
 train <- readr::read_csv('kaggle_data/train.csv.zip')
